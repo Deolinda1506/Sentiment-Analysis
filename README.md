@@ -8,8 +8,6 @@ A sentiment analysis system comparing traditional machine learning and deep lear
 - **Validation Set**: 1,000 tweets
 - **Classes**: 4 sentiment categories (Negative, Positive, Neutral, Irrelevant)
 
-## Quick Start
-
 ### Prerequisites
 ```bash
 pip install -r requirements.txt
@@ -47,7 +45,7 @@ Sentiment-Analysis/
 │       └── [visualization files]
 ├── requirements.txt
 ├── README.md
-└── REPORT.md
+
 ```
 
 ## Models Implemented
