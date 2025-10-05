@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Deolinda1506/Sentiment-Analysis.git>
    cd Sentiment-Analysis
    ```
 
