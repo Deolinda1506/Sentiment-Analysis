@@ -1,6 +1,6 @@
 # Sentiment Analysis Project
 
-A sentiment analysis system comparing traditional machine learning and deep learning approaches on Twitter sentiment data. Implements Logistic Regression, RNN, LSTM, and GRU models to classify tweets into four sentiment categories: Positive, Negative, Neutral, and Irrelevant.
+A sentiment analysis system comparing traditional machine learning and deep learning approaches on Twitter data. The project classifies tweets into four sentiment categories: Positive, Negative, Neutral, and Irrelevant, using Logistic Regression, RNN, LSTM, and GRU models.
 
 ## Dataset
 
