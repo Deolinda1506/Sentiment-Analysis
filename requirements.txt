@@ -6,3 +6,4 @@ matplotlib
 seaborn
 emoji
 nltk
+wordcloud
